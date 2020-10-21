@@ -10,5 +10,5 @@ Esta idea nos llego gracias a un meme que se empezó a hacer famoso hace ya un t
 ![Logo](https://i.ytimg.com/vi/9v2LSQZ92hI/hqdefault.jpg)
 
 
-Visita nuestra pagina! :D
-<a href="https://www.facebook.com/Cash_X_MoneySupport-111864304019017">Linwini</a>
+Visita nuestra pagina! :D ---->
+<a href="https://www.facebook.com/Cash_X_MoneySupport-111864304019017">Facebook</a>
