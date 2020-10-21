@@ -13,4 +13,4 @@ Esta idea nos llego gracias a un meme que se empezó a hacer famoso hace ya un t
 Visita nuestra pagina! :D ---->
 <a href="https://www.facebook.com/Cash_X_MoneySupport-111864304019017">Facebook</a>
 
-<img title="Inicio" src="C:\Users\JoelPR\Desktop\CashXMoney/Inicio" width="400" height="200">
+<img src="C:\Users\JoelPR\Desktop\CashXMoney/Inicio">
