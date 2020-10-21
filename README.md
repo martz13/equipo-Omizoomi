@@ -12,3 +12,5 @@ Esta idea nos llego gracias a un meme que se empezó a hacer famoso hace ya un t
 
 Visita nuestra pagina! :D ---->
 <a href="https://www.facebook.com/Cash_X_MoneySupport-111864304019017">Facebook</a>
+
+<img title="energías renovables" src="C:\Users\JoelPR\Documents\web_Miguel_Anguel_y_Joel_Peña\IMG/energias.jpg" width="400" height="200" alt="foto">
