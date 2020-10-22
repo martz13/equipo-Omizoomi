@@ -14,3 +14,33 @@ Visita nuestra pagina! :D ---->
 <a href="https://www.facebook.com/Cash_X_MoneySupport-111864304019017">Facebook</a>
 
 
+
+## ¿Cómo será?
+Nuestra pagina estara formada a base de usar codigo de "HTML, CSS y Java" y constara de varias pantallas donde el usuario podrá interactuar:
+
+### INICIO
+Se presentara esta pantalla donde el usuario podrá acceder a todos sus apartados:
+
+____________________
+### PROMOCIONES
+Aqui el usuario podrá ver Los descuentos que están disponibles durante esa semana:
+
+____________________
+###
+:
+
+____________________
+###
+:
+
+____________________
+###
+:
+
+____________________
+###
+:
+
+____________________
+###
+:
