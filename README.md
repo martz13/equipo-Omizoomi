@@ -43,4 +43,5 @@ En esta página podrás obtener información mas precisa del producto:
 ![Logo](https://github.com/martz13/equipo-Omizoomi/blob/Visualizaci%C3%B3n/Compra.png)
 ____________________
 
-#### Estas será nuestro futuro sitio web ¡ESPERALO PROXIMAMENTE!
+# Estas será nuestro futuro sitio web ¡ESPERALO PROXIMAMENTE!
+![Logo](https://i.redd.it/ijjfp1y7vlv41.jpg)
