@@ -20,7 +20,7 @@ Nuestra pagina estara formada a base de usar codigo de "HTML, CSS y Java" y cons
 
 ### INICIO
 Se presentara esta pantalla donde el usuario podrá acceder a todos sus apartados:
-
+![Logo](https://github.com/martz13/equipo-Omizoomi/blob/Visualizaci%C3%B3n/Inicio.png)
 ____________________
 ### PROMOCIONES
 Aqui el usuario podrá ver Los descuentos que están disponibles durante esa semana:
