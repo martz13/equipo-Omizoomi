@@ -22,25 +22,26 @@ Nuestra pagina estara formada a base de usar codigo de "HTML, CSS y Java" y cons
 Se presentara esta pantalla donde el usuario podrá acceder a todos sus apartados:
 ![Logo](https://github.com/martz13/equipo-Omizoomi/blob/Visualizaci%C3%B3n/Inicio.png)
 ____________________
-### PROMOCIONES
+### OFERTAS
 Aqui el usuario podrá ver Los descuentos que están disponibles durante esa semana:
-
+![Logo](https://github.com/martz13/equipo-Omizoomi/blob/Visualizaci%C3%B3n/Ofertas.png)
+____________________
+### MONEDAS
+En este apartado el uruario verá todas las monedas que tenemos disponibles:
+![Logo](https://github.com/martz13/equipo-Omizoomi/blob/Visualizaci%C3%B3n/Monedas.png)
+____________________
+### BILLETES
+En este apartado el uruario verá todas los billetes que tenemos disponibles::
+![Logo](https://github.com/martz13/equipo-Omizoomi/blob/Visualizaci%C3%B3n/Billetes.png)
 ____________________
 ###
 :
-
+![Logo]()
 ____________________
 ###
 :
-
+![Logo]()
 ____________________
 ###
 :
-
-____________________
-###
-:
-
-____________________
-###
-:
+![Logo]()
