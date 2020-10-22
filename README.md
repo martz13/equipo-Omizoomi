@@ -34,9 +34,9 @@ ____________________
 En este apartado el uruario verá todas los billetes que tenemos disponibles::
 ![Logo](https://github.com/martz13/equipo-Omizoomi/blob/Visualizaci%C3%B3n/Billetes.png)
 ____________________
-###
-:
-![Logo]()
+### CONTACTOS
+Aqui se contendran los link's a los correos y paginas del soporte técnico:
+![Logo](https://github.com/martz13/equipo-Omizoomi/blob/Visualizaci%C3%B3n/Contactos.png)
 ____________________
 ###
 :
