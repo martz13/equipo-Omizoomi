@@ -38,9 +38,9 @@ ____________________
 Aqui se contendran los link's a los correos y paginas del soporte técnico:
 ![Logo](https://github.com/martz13/equipo-Omizoomi/blob/Visualizaci%C3%B3n/Contactos.png)
 ____________________
-###
-:
-![Logo]()
+### VISUALIZACIÓN DEL PRODUCTO
+En esta página podrás obtener información mas precisa del producto:
+![Logo](https://github.com/martz13/equipo-Omizoomi/blob/Visualizaci%C3%B3n/Compra.png)
 ____________________
 ###
 :
